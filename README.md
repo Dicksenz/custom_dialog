@@ -1,9 +1,9 @@
 A fully custom alert and dialog box showing messages after a form submit.
 
-How to use
+**How to use**
 This widget can be used in form submit, login and payment forms.
 
-Usage in a raised button on press:
+**Usage in a raised button on press:**
 
             RaisedButton(
                     onPressed: () {
