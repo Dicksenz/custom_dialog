@@ -1,7 +1,7 @@
 A fully custom alert and dialog box showing messages after a form submit.
-
-**How to use**
 This widget can be used in form submit, login and payment forms.
+
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
 
 **Usage in a raised button on press:**
 
