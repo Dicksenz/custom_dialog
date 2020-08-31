@@ -2,7 +2,7 @@ name: custom_dialog
 description: A fully custom alert and dialog box showing messages after a form submit .
 version: 0.0.1
 # author: Dicksen Veloopillay <dicksenrayden@gmail.com>
-homepage:
+homepage: https://github.com/Dicksenz/custom_dialog.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
