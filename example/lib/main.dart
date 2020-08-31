@@ -28,17 +28,17 @@ class HomeView extends StatelessWidget {
               context: context,
               builder: (context) => CustomDialog(
                 content: Text(
-                  'Payment Successful',
+                  'No Access',
                   style: TextStyle(
                     fontWeight: FontWeight.w900,
                     fontSize: 20.0,
                   ),
                 ),
-                title: Text('Health Insurance'),
-                firstColor: Color(0xFF3CCF57),
+                title: Text('Error'),
+                firstColor: Colors.red,
                 secondColor: Colors.white,
                 headerIcon: Icon(
-                  Icons.check_circle_outline,
+                  Icons.error_outline,
                   size: 120.0,
                   color: Colors.white,
                 ),
